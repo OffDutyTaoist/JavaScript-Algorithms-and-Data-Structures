@@ -263,7 +263,6 @@ pauseSong();
 setPlayerDisplay();
 highlightCurrentSong();
 setPlayButtonAccessibleText();
-
     }
 });
 
